@@ -29,7 +29,7 @@
             <div>
               <h6>Check for my IP</h6>
               <div><strong>Request</strong></div>
-              <div>GET /json</div>
+              <div>GET <a href="/json">/json</a></div>
               <div class="mt-2"><strong>Response</strong></div>
               <div>{{{ toJSON(result) }}}</div>
             </div>
@@ -37,7 +37,7 @@
             <div>
               <h6>Check for an IP</h6>
               <div><strong>Request</strong></div>
-              <div>GET /json/{{result.query}}</div>
+              <div>GET <a href="/json/{{result.query}}">/json/{{result.query}}</a></div>
               <div class="mt-2"><strong>Response</strong></div>
               <div>{{{ toJSON(result) }}}</div>
             </div>
