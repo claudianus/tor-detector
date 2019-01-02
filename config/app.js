@@ -55,7 +55,7 @@ module.exports = {
     | values. Read documentation for that.
     |
     */
-    trustProxy: Env.get('TRUST_PROXY', false),
+    trustProxy: Env.get('TRUSTPROXY', false),
 
     /*
     |--------------------------------------------------------------------------
