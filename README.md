@@ -1,5 +1,5 @@
 ## What is tor-detector
-This is a node.js fullstack web application that shows system information
+This is a node.js fullstack web application that tells you're using tor or not
 
 ## Screenshot
 <img src="https://s.put.re/46WRz3A6.PNG" alt="screenshot" width="300px">
