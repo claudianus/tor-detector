@@ -2,7 +2,7 @@
 This is a node.js fullstack web application that shows system information
 
 ## Screenshot
-<img src="https://s.put.re/46WRz3A6.PNG" alt="screenshot" width="700px">
+<img src="https://s.put.re/46WRz3A6.PNG" alt="screenshot" width="300px">
 
 ## How to install and host on your server (Ubuntu 18.04)
 Install node.js if you haven't installed node.js yet
