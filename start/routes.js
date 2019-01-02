@@ -19,3 +19,5 @@ const Route = use('Route')
 Route.get('/', 'PageController.index')
 Route.get('/json', 'ApiController.json')
 Route.get('/json/:ip', 'ApiController.jsonParam')
+
+Route.get('dev', ({request}) => request.ips())
